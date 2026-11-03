@@ -15,7 +15,7 @@ variable "component" {
 }
 
 variable "domain_name" {
-    default = "daws90s.shop"
+    default = "devaradevops.online"
 }
 
 variable "rule_priority" {
